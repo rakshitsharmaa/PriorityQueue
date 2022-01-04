@@ -1,0 +1,1 @@
+__INT_LEAST32_TYPE__price ;__cpp_decltype_auto;__DBL_MANT_DI
